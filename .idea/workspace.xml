@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e4a1082-c736-4d14-a5d3-8ccfaa2b290b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/local/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/local/maven/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QozcBbFjUE3GJsB1SVwQcvmpBj" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/testdata/dev" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testdata/test" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scv.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/testdata/dev" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testdata/int" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources/testdata" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.QuickTest">
+    <configuration name="FileToObjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scv.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scv.tests" />
+      <option name="MAIN_CLASS_NAME" value="scv.tests.FileToObjectTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickTest" type="JUnit" factoryName="JUnit">
+      <module name="filetest" />
+      <option name="PACKAGE_NAME" value="scv.tests" />
+      <option name="MAIN_CLASS_NAME" value="scv.tests.FileToObjectTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dspring.profiles.active=dev" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="filetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scv.helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scv" />
+      <option name="MAIN_CLASS_NAME" value="scv.QuickTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.QuickTest" />
+      <item itemvalue="JUnit.FileToObjectTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FileToObjectTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/Automations/OtherFrameworks/gatling/id-load-testing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dev-scv/ati/scv-ati-exposure-data-builder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dev-scv/ati/scv-ati-ingest-parquet" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dev-scv/ati/scv-ati-ingest-parquet/project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dev/ati/scv-ati-exposure-data-builder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dev/ati/scv-ati-ingest-parquet" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scv-perf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../test/platform-bbcid-tests/platform-bbcid-performance-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../test/uas-perf-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gatling-sbt-plugin-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-training2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e4a1082-c736-4d14-a5d3-8ccfaa2b290b" name="Default Changelist" comment="" />
+      <created>1568451813926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568451813926</updated>
+    </task>
+    <servers />
+  </component>
+</project>

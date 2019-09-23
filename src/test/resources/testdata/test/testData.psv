@@ -1,0 +1,19 @@
+testDataDescription      |enumeratedType            |assertionFile              |activityType |isStoreUser|eventType   |id                                    |enablePersonalisation|status   |createDate  |
+                         |CREATEUSER_OVER_18_SCV_1  |user1CreateUserOver18.psv  |idevent      |false      |[CreateUser]|[over18ma|[true]               |[active] |[Wed Feb 08 2017 01:50:01 GMT+0000 (UTC)]|
+                         |CREATEUSER_OVER_18_SCV_2  |user2CreateUserOver18.psv  |idevent      |false      |[CreateUser]|[over18ot|[false]              |[active] |[Wed Feb 08 2017 01:00:02 GMT+0000 (UTC)]|
+                         |CREATEUSER_OVER_13_SCV_3  |user3CreateUserOver13.psv  |idevent      |false      |[CreateUser]|[over13fe|[false]              |[active] |[Wed Feb 08 2017 01:00:03 GMT+0000 (UTC)]|
+                         |CREATEUSER_UNDER_13_SCV_5 |user4CreateUserUnder13.psv |idevent      |false      |[CreateUser]|[under13o|[true]               |[active] |[Wed Feb 08 2017 01:00:04 GMT+0000 (UTC)]|
+                         |CREATEUSER_OVER_18_SCV_6  |user6CreateUserOver18.psv  |idevent      |false      |[CreateUser]|[over18ot|[false]              |[active] |[Wed Feb 08 2017 01:00:05 GMT+0000 (UTC)]|
+                         |CREATEUSER_OVER_18_SCV_4  |user4CreateUserOver18.psv  |idevent      |false      |[CreateUser]|[over18ma|[true]               |[active] |[Wed Feb 08 2017 01:00:06 GMT+0000 (UTC)]|
+                         |DELETEUSER_OVER_18_SCV_4  |user4DeleteUserOver18.psv  |idevent      |false      |[DeleteUser]|[over18ma|[NULL]               |[deleted]|[Wed Feb 08 2017 01:00:07 GMT+0000 (UTC)]|
+                         |UPDATEUSER_OVER_18_SCV_2  |user2UpdateUserOver18.psv  |idevent      |false      |[UpdateUser]|[over18ot|[false]              |[active] |[Wed Feb 08 2017 01:00:08 GMT+0000 (UTC)]|
+                         |DELETEUSER_OVER_18_SCV_2  |user2DeleteUserOver18.psv  |idevent      |false      |[DeleteUser]|[over18ot|[NULL]               |[deleted]|[Wed Feb 08 2017 01:00:09 GMT+0000 (UTC)]|
+UpdateUser w/o updatedate|UPDATEUSER_OVER_18_SCV_16 |user16UpdateUserOver18.psv |idevent      |false      |[UpdateUser]|[over18ma|[true]               |[active] |[Wed Feb 08 2017 01:00:06 GMT+0000 (UTC)]|
+                         |UPDATEUSER_OVER_18_SCV_7  |user7UpdateUserOver18.psv  |idevent      |false      |[UpdateUser]|[over18ot|[false]              |[active] |[Sat Mar 26 2016 01:00:11 GMT+0100 (UTC)]|
+                         |UPDATEUSER_OVER_18_SCV_9  |user9UpdateUserOver18.psv  |idevent      |false      |[UpdateUser]|[over18ot|[false]              |[active] |[Sat Mar 26 2016 01:00:12 GMT+0100 (UTC)]|
+                         |DELETEUSER_OVER_18_SCV_10 |user10DeleteUserOver18.psv |idevent      |false      |[DeleteUser]|[over18ma|[NULL]               |[active] |[Sat Mar 26 2016 01:00:13 GMT+0100 (UTC)]|
+Soft Error               |UPDATEUSER_OVER_18_SCV_14 |user14UpdateUserOver18.psv |idevent      |true       |[UpdateUser]|[over18ma|[true]               |[active] |[2015-07-31 13:43:32]                    |
+                         |UPDATEUSER_OVER_18_SCV_15 |user15UpdateUserOver18.psv |initialUpload|false      |[UpdateUser]|[forenric|[true]               |[active] |[Sat Mar 26 2016 01:00:17 GMT+0100 (UTC)]|
+                         |UPDATEUSER_OVER_18_SCV_12 |user12UpdateUserOver18.psv |idevent      |false      |[UpdateUser]|[over18ma|[true]               |[active] |[Sat Mar 26 2016 01:00:15 GMT+0100 (UTC)]|
+                         |UPDATEUSER_UNDER_13_SCV_13|user13UpdateUserUnder13.psv|idevent      |false      |[UpdateUser]|[under13o|[true]               |[active] |[Sat Mar 26 2016 01:00:16 GMT+0100 (UTC)]|
+                         |DELETEUSER_OVER_18_SCV_11 |user11DeleteUserOver18.psv |idevent      |false      |[DeleteUser]|[over13fe|[NULL]               |[deleted]|[Sat Mar 26 2016 01:00:14 GMT+0100 (UTC)]|

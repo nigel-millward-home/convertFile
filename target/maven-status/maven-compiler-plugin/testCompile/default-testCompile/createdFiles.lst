@@ -1,0 +1,12 @@
+scv/PropertiesLoader.class
+scv/DSVParser$1.class
+scv/config/Config.class
+scv/model/IdTestData.class
+scv/DSVParser$TsvDimension.class
+scv/Identity.class
+scv/PropertiesHelper.class
+scv/QuickTest.class
+scv/model/IdRealTimeData.class
+scv/model/IdRealTimeTestDataBuilder.class
+scv/DSVParser.class
+scv/BbcPsvParser.class

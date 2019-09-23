@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: scv.QuickTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.18 s <<< FAILURE! - in scv.QuickTest
+quickTest(scv.QuickTest)  Time elapsed: 0.114 s  <<< ERROR!
+java.lang.NullPointerException
+	at scv.QuickTest.quickTest(QuickTest.java:22)
+
